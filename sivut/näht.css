@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(189, 221, 249);
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+}
+#content img{
+    position: relative;
+}
+#content{
+    background-color: rgb(209, 236, 248);
+    padding: 20px;
+}
+#toinen img{
+    height: 200px;
+}
+#toinen{
+    background-color: rgb(209, 236, 248);
+    padding: 20px;
+}
+
+#kolmas img{
+    height: 300px;
+}
+#kolmas{
+    background-color: rgb(209, 236, 248);
+    padding: 20px;
+}

@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(191, 249, 191);
+    font-size: 20px;
+    padding: 20px;
+    
+}
+article{
+    padding: 20px;
+    background-color: rgb(240, 249, 203);
+}
+#content{
+    padding: 20px;
+    background-color: rgb(240, 249, 203); ;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
