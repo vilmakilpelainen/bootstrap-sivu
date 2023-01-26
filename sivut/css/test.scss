@@ -1,5 +1,9 @@
+/*määritelty väri sass:illa*/
+
+$primary_1:  rgb(250, 238, 178);
+
 body{
-    background-color: rgb(250, 238, 178);
+    background-color: $primary_1;
     padding: 20px;
     text-align: center;
 
@@ -15,9 +19,4 @@ img{
     height: 500px;
     padding: 20px;
    
-}
-/*pseudo selector*/
-
-a:hover{
-    background-color: yellow;
 }
